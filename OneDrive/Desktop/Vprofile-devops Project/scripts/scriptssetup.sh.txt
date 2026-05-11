@@ -1,0 +1,4 @@
+#!/bin/bash
+
+dnf install java-17-openjdk -y
+dnf install git wget unzip -y
